@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at the University of Toronto with a strong proficiency in Python and a deep interest in machine learning. I enjoy tackling coding problems on LeetCode and learning new languages and frameworks.
+Hi! I am a Computer Science student at the University of Toronto with a proficiency in Python and a strong interest in machine learning. I enjoy tackling coding problems on LeetCode, building coding projects, and learning new programming languages and frameworks.
 
 
 ## 🌐 Socials:
