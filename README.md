@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om!</h1>
-<h3 align="center">A CS student, exploring the world of artificial intelligence, one neural network at a time.</h3>
+<h3 align="center">A curious learner and a problem solver.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
