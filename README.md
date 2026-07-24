@@ -5,4 +5,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=om0611&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om0611&" alt="" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=om0611&" alt="" /></p>
